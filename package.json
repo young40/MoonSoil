@@ -1,0 +1,7 @@
+{
+    "name": "GameDataEditor",
+    "main": "index.html",
+    "window": {
+        "toolbar": false
+    }
+}
